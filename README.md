@@ -13,14 +13,14 @@ For more info see VisualAudio.info
 
 * VCTRLv1.5.exe is an app which sends Midi data to flash
 
-* Menu.swf is the VA main menu and will load up the other swfs as needed
+* Menu.swf is the VA main menu and it will load up the other swfs as needed
 
 
 
 
 **Instructions**
 
-All three applications must be running for visualisations to work.
+All three applications must be running for visualisations to work. A swf player is needed: https://get.adobe.com/shockwave/
 
 
 **Please note:** the original source code for this project was lost in a tragic event I've called "the great hard drive crash of 2006". I lost a tonne of work and photos so only the final application is available here.
