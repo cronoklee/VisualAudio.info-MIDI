@@ -6,11 +6,16 @@ Visual Audio is a language which maps music into visuals with the aim of augment
 For more info see VisualAudio.info
 
 
+
 **Contents**
 
-MidiThru is a simple MIDI application which plays MIDI input to your speakers
-VCTRLv1.5.exe is an app which sends Midi data to flash
-Menu.swf is the VA main menu and will load up the other swfs as needed
+* MidiThru is a simple MIDI application which plays MIDI input to your speakers
+
+* VCTRLv1.5.exe is an app which sends Midi data to flash
+
+* Menu.swf is the VA main menu and will load up the other swfs as needed
+
+
 
 
 **Instructions**
