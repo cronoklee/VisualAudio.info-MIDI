@@ -19,9 +19,10 @@ For more info see VisualAudio.info
 
 **Instructions**
 
-* Download the "standalone" Flash player for your operating system half way down this page: https://labs.adobe.com/downloads/flashplayer.html. 
+* Download all contents of this repository to a sensible location (You can't easily move it later)
+* Download the "standalone" Flash player for your operating system half way down this page:  https://labs.adobe.com/downloads/flashplayer.html. 
 * Run Flash player and open Menu.swf in it
-* When the security warning appears, click settings>security and add the folder where you downloaded VisualAudio to the "trusted locations".
+* When the security warning appears, click settings>security and add the folder where you downloaded VisualAudio to the "trusted locations". (If you move VisualAudio later, you'll need to do this step again.)
 * Restart Flash player and open Menu.swf again.
 * Run VCTRLv1.5.exe, Choose a MIDI device and click start to begin transmitting incoming MIDI from it.
 * Choose a visualisation from the VA Menu screen and start playing!
